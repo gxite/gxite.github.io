@@ -6,10 +6,4 @@ layout: default
 
 Introduction text.
 
-## CV
 
-CV Link
-
-## Portfolio
-
-Portfolio Link
