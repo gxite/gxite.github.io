@@ -4,6 +4,6 @@ layout: default
 
 ## CV
 
-_yay_
+Work In Progress
 
 [back](./)
