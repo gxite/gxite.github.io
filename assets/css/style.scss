@@ -6,10 +6,19 @@
 a {
     color:#222;
     text-decoration:none;
-    text-align: center;
+    
   }
   
 a:hover, a:focus {
     color:#393939;
     font-weight: bold;
   }
+
+h1 {
+  font-size:28px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
