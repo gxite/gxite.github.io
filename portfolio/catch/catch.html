@@ -24,6 +24,19 @@
   background-color: #ddd;
   color: black;
 }
+#vid {
+  position: absolute; 
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto; 
+  z-index: -100;
+  background-size: cover;
+  overflow: hidden;
+}
+
 
 .sticky {
   position: fixed;
@@ -49,9 +62,10 @@
 </div>
 
 <div class="content"></div>
-<video width="480" height="320" controls="controls">
+<video id="vid" controls="controls">
   <source src="https://gxite.github.io/portfolio/video/catch_mouse.mp4" type="video/mp4">
 </video>
+
 </div>
 
 <script>
