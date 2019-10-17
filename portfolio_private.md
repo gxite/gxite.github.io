@@ -3,19 +3,20 @@ layout: default
 ---
 
 
-**Architectural Design**
-- [**Commuting & Exercising - The Railway Corridor in Singapore** - NUS 2017]()
+**Architectural Design & Research**
+- [**Commuting & Exercising - The Railway Corridor in Singapore** - NUS 2017, Masters Design Studio]()
 
-- [**Sky Bridge - Exploring Air-Rights Structures** - NUS 2016]()
+- [**Sky Bridge - Exploring Air-Rights Structures** - NUS 2016, 4th Year Design Studio]()
 
-- [**Recuperation Centre - Regaining Autonomy** - NUS 2015]()
+- [**Participatory Design Games in Urban Planning: Towards a Distributed and Massively Multi-player Online Collaboration Model** -NUS 2016, Dissertation]()
 
-**Interaction Design**
-- [**Catch V2 - Facial contour detection via OpenCV** - WORK IN PROGRESS]()
-- [**Catch - Using the mouth as a game controller** - NUS 2015]()
+- [**An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D** -NUS 2016, Iterative Virtual Prototyping]()
 
-**Exhibition Booth Design**
-- [**Krampouz - FHA 2020** - For BLACKMRKT PTE LTD]()
+- [**Recuperation Centre - Regaining Autonomy** - NUS 2015, 3rd Year Design Studio]()
+
+**Others**
+- [**Catch - Using the mouth as a game controller** - NUS 2015, Interaction Design]()
+
 
 
 
