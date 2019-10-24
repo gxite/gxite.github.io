@@ -12,8 +12,6 @@ layout: default
 
 - [**An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D** -NUS 2016, Iterative Virtual Prototyping]()
 
-- [**Recuperation Centre - Regaining Autonomy** - NUS 2015, 3rd Year Design Studio]()
-
 **Others**
 - [**Catch - Using the mouth as a game controller** - NUS 2015, Interaction Design]()
 
