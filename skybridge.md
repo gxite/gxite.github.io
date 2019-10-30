@@ -2,8 +2,10 @@
 layout: default
 ---
 
-# Sky Bridge - Exploring Air-Rights Structures
+## Sky Bridge - Exploring Air-Rights Structures
 
+
+Click here for [fullscreen](gxite.github.io/portfolio/sb/sb.html) view.
 <img src="/portfolio/sb/sb_page1.jpg">
 <img src="/portfolio/sb/sb_page2.jpg">
 <img src="/portfolio/sb/sb_page3.jpg">

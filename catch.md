@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Catch - Using the mouth as a game controller
+## Catch - Using the mouth as a game controller
 
 <img src="portfolio/catch/start_screen.jpg" alt="Start Screen" width="500"/>
 
