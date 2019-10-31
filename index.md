@@ -3,7 +3,7 @@ layout: default
 ---
 <style>
     .intro-title {
-        font-size: 5em;
+        font-size: 3em;
         margin-bottom: -5%;
     }
 </style>
