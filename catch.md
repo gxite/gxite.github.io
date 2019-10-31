@@ -6,6 +6,12 @@ layout: default
 
 <img src="portfolio/catch/start_screen.jpg" alt="Start Screen" width="500"/>
 
+<video width="500" height="300" controls="controls">
+  <source src="https://gxite.github.io/portfolio/video/catch_mouse.mp4" type="video/mp4" >
+</video>
+
+*The source code can be found [here](https://github.com/gxite/catch_v1).* 
+*This version has been modified to be operated with a mouse.*
 
 This is an exploration into how the mouth can be used to interact with a computer. I had made a simple game in Processing where the objective is to score as many points as possible by using a cursor to collect "green coloured spheres" within a minute. The cursor is controlled by tracking the location of the mouth, using the opening and closing of the mouth to substitute a mouse click. 
 
@@ -25,15 +31,15 @@ The camera tracks 2 neon cylinders that are positioned on the top and bottom lip
 <img src="portfolio/catch/camera_interior_layout.jpg" alt="Camera interior" width="500" height="400"/>
 <img src="portfolio/catch/Tracker_on_face.jpg" alt="Tracker on face" width="500" height="400"/>
 
+## After thoughts
 
-## **Gameplay video**
+Future iterations of this concept can potentially be enabled using OpenCV and open-sourced facial contour models. It might be interesting to explore means to deploy it on the web. 
 
-<video width="400" height="240" controls="controls">
-  <source src="https://gxite.github.io/portfolio/video/catch_mouse.mp4" type="video/mp4" >
-</video>
+October 2019
 
-The source code can be found [here](https://github.com/gxite/catch_v1). 
 
-This version has been modified to be operated with a mouse.
+
+
+
 
 
