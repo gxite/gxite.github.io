@@ -8,9 +8,9 @@ layout: default
     }
 </style>
 
-<div class="intro-title">DESIGNER</div>
-<div class="intro-title">ARCHITECT</div>
-<div class="intro-title">RESEARCHER</div>
+<div class="intro-title">designer</div>
+<div class="intro-title">architect</div>
+<div class="intro-title">researcher</div>
 <div class="intro-title"><br></div>
 
 
