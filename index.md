@@ -8,11 +8,11 @@ layout: default
     }
 </style>
 
-<div class="intro-title">DESIGNER.</div>
-<div class="intro-title">ARCHITECT.</div>
-<div class="intro-title">RESEARCHER.</div>
+<div class="intro-title">DESIGNER</div>
+<div class="intro-title">ARCHITECT</div>
+<div class="intro-title">RESEARCHER</div>
 
-# 
+
 
 ## About me
 
