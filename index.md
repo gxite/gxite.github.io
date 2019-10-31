@@ -4,7 +4,7 @@ layout: default
 <style>
     .intro-title {
         font-size: 3em;
-        margin-bottom: -5%;
+        margin-bottom: -3%;
     }
 </style>
 
