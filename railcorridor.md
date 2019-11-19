@@ -5,7 +5,8 @@ layout: default
 ## Exercise while Commuting: Facilitating anactive lifestyle along The Rail Corridor
 
 
-Click here for [fullscreen](gxite.github.io/portfolio/rc/rc.html) view.
+Click [here](gxite.github.io/portfolio/rc/rc.html) for full screen view.
+
 <img src="/portfolio/rc/rc_page1.jpg">
 <img src="/portfolio/rc/rc_page2.jpg">
 <img src="/portfolio/rc/rc_page3.jpg">
