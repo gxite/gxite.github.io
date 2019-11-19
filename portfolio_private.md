@@ -12,7 +12,7 @@ layout: default
 
 **Architectural Design**
 
-- [Exercise while Commuting: Facilitating anactive lifestyle along The Rail Corridor - NUS 2017, Masters Design Studio](./railcorridor.html)
+- [Exercise while Commuting: Facilitating an active lifestyle along The Rail Corridor - NUS 2017, Masters Design Studio](./railcorridor.html)
 
 - [Sky Bridge - Exploring Air-Rights Structures - NUS 2016, 4th Year Design Studio](./skybridge.html)
 
