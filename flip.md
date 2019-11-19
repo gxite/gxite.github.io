@@ -11,7 +11,7 @@ Flip! is a simple furniture that is designed to serve multiple functions at a pr
 
 <img src="portfolio/flip/1.jpg" alt="Image of Desk" width="500"/>
 
-Flip! is primarily designed as a floor desk for young children. By flipping the desk on its side, it becomes a stool that is comfortable for adults. By stacking multiple units together, they can function as shelves and makeshift classroom dividers. A circular hand hold is on the sides made it easier for each unit to be moved. All edges are sanded down and rounded to ensure that there are no sharp edges. 
+Flip! is primarily designed as a floor desk for young children. Flipping the desk on its side, it becomes a stool that is at a comfortable height for adults to sit on. By stacking multiple units together, they can function as shelves and makeshift classroom dividers. A circular hand hold is on the sides made it easier for each unit to be moved. All edges are sanded down and rounded to ensure that there are no sharp edges. 
 
 <img src="portfolio/flip/4.jpg" alt="Image of Desk" width="500"/>
 

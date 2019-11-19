@@ -26,7 +26,7 @@ layout: default
 
 ## Miscellaneous Projects
 
-- [Excel Interface for Revit prototype - DCA Architects 2019](./excel_to_revit.html)
+- [Excel Interface for Revit - DCA Architects 2019](./excel_to_revit.html)
 
 - [Simple Parametric Perforated Panels - DCA Architects 2019](./perforated_panels.html)
 
