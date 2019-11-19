@@ -51,8 +51,4 @@ The completed bridge was remarkably stable and can easily hold the weight of the
 
 This was one of my early experiments. The goal was to build a hexagonal tower that is supported only be a rigid frame around the perimeter, with no columns or bracings in the core area. I got a little too ambitious and made the base a tad bit too big. Additional complications arised from lashings that were not strong enough due to our inexperience. In the end, we ran out of time and we had to settle for a partially completed tower base.
 
-
-## After thoughts
-
-
 November 2019
