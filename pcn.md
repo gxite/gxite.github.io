@@ -10,7 +10,7 @@ The Park Connector Network is a series of publicly maintained greenways that lin
 
 **Action Detection**
 
-The survey of user activities is accomplished processing the GoPro video through pre-trained object and action detection models. The demo below shows a visualization of the detections. The demo footage is blurred for privacy.
+The survey of user activities is accomplished by processing the GoPro video through pre-trained object and action detection models. The demo below shows a visualization of the detections. Footage is blurred for privacy.
 
 <video width="500" height="300" controls="controls">
   <source src="https://gxite.github.io/portfolio/video/crowd_action_demo.mp4" type="video/mp4" >
