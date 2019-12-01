@@ -21,6 +21,4 @@ The design is intended to be simple and to be fabricated out of any planar mater
 
 Additional holes can be added to the sides of the desk to enable the stacked configuration to be better secured. As it is now, the stacked configuration poses a hazard to young children. On hind sight,  1/2 inch plywood would have been more than sufficient. This would make each unit lighter and easier to handle as well.
 
-Future iterations could explore more reliable means to assemble 
-
 October 2019
