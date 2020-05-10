@@ -21,7 +21,7 @@ layout: default
 
 <div class="intro-title">design</div>
 
-   *Undergraduate & graduate course work*
+   *Undergraduate & Graduate course work*
 
 - [Exercise while commuting: Facilitating an active lifestyle along The Rail Corridor - NUS 2017, Masters Design Studio](./railcorridor.html)
 
@@ -34,7 +34,7 @@ layout: default
 
 - [Measuring physical profile and use of park connector network with Deep Learning and Multi-Source Multi-Modal data analytics - NUS, Research Assistant (2019-2020)](./pcn.html)
 
-    *Undergraduate & graduate course work*
+    *Undergraduate & Graduate course work*
 
 - [An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D -NUS 2016, Iterative Virtual Prototyping](portfolio/ivp_report.pdf)
 
