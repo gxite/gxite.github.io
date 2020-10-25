@@ -4,7 +4,8 @@ layout: default
 
 ## Measuring Physical Profile and Use of Park Connector Network with Deep Learning and Multi-Source Multi-Modal Data Analytics
 
-[IFOU Conference Paper] (portfolio/observations_of_urban_activities_with_computer_vision.pdf)
+[IFOU Conference Paper](https://gxite.github.io/portfolio/observations_of_urban_activities_with_computer_vision.pdf)
+[Code Repo](https://github.com/gxite/pcn-acam)
 
 The Park Connector Network is a series of publicly maintained greenways that links parks and opens spaces across Singapore. The project attempts to understand how people utilize these greenways in relation to its physical profile. The physical profile is captured and processed using a semantic segmentation models. The user activities are surveyed using a GoPro camera and the resulting videos are processed using action recognition models. Multiple regression analysis will then be performed on the resulting dataset. 
 
@@ -16,6 +17,6 @@ The survey of user activities is accomplished by processing the GoPro video thro
   <source src="https://gxite.github.io/portfolio/video/crowd_action_demo.mp4" type="video/mp4" >
 </video>
 
-The code repository cade be found [here](https://github.com/gxite/pcn-acam) for reference. 
+
 
 
