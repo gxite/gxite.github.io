@@ -37,6 +37,8 @@ layout: default
 
 - [Catch - Using the mouth as a game controller - NUS 2015, Interaction Design](./catch.html)
 
+- [Flip! - Multi-configuration furniture for pre-schools - NUS 2014](./flip.html)
+
 
 <div class="intro-title">research</div>
 
