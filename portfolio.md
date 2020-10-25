@@ -21,11 +21,11 @@ layout: default
 
 <div class="intro-title">design/applications/experiments</div>
 
-- [Data Visualisation Web App](pcn-web.web.app)
+- [Data Visualisation Web App](https://pcn-web.web.app/view-explore)
 
-- [Exhibit at the Singapore Pavilion for Venice Biennale - NUS 2020](gxite.github.io/portfolio/venice_table.pdf)
+- [Exhibit at the Singapore Pavilion for Venice Biennale - NUS 2020](portfolio/venice_table.pdf)
 
-- [Exhibition booth design for Krampouz - Freelance 2019](gxite.github.io/portfolio/Krampouz_concept.pdf)
+- [Exhibition booth design for Krampouz - Freelance 2019](portfolio/Krampouz_concept.pdf)
 
 - [Excel interface for Revit - DCA Architects 2019](./excel_to_revit.html)
 
