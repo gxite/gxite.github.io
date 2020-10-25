@@ -19,9 +19,17 @@ layout: default
     }
 </style>
 
-<div class="intro-title">design</div>
+<div class="intro-title">design/applications/experiments</div>
 
-   *Undergraduate & Graduate course work*
+- [Data Visualisation Web App](pcn-web.web.app)
+
+- [Exhibit at the Singapore Pavilion for Venice Biennale - NUS 2020](gxite.github.io/portfolio/venice_table.pdf)
+
+- [Exhibition booth design for Krampouz - Freelance 2019](gxite.github.io/portfolio/Krampouz_concept.pdf)
+
+- [Excel interface for Revit - DCA Architects 2019](./excel_to_revit.html)
+
+- [Simple parametric perforated panels - DCA Architects 2019](./perforated_panels.html)
 
 - [Exercise while commuting: Facilitating an active lifestyle along The Rail Corridor - NUS 2017, Masters Design Studio](./railcorridor.html)
 
@@ -34,15 +42,6 @@ layout: default
 
 - [Measuring physical profile and use of park connector network with Deep Learning and Multi-Source Multi-Modal data analytics - NUS, Research Assistant (2019-2020)](./pcn.html)
 
-    *Undergraduate & Graduate course work*
-
 - [An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D -NUS 2016, Iterative Virtual Prototyping](portfolio/ivp_report.pdf)
 
-<div class="intro-title">others</div>
-
-- [Excel interface for Revit - DCA Architects 2019](./excel_to_revit.html)
-
-- [Simple parametric perforated panels - DCA Architects 2019](./perforated_panels.html)
-
-
-Updated: November 2019
+Updated: November 2020
