@@ -4,7 +4,7 @@ layout: default
 
 ## Excel Interface for Revit  
 
-An Excel based schedule is typically circulated between property developers and architects to evaluate unit distribution for high rise condominiums. As the Singapore authorities push forward with the adoption of Building Information Modelling (BIM) for all regulatory submissions, it became necessary to conlidate as much of the existing workflow within the BIM environment to avoid duplication of effort.
+An Excel based schedule is typically circulated between property developers and architects to evaluate unit distribution for high rise condominiums. As the Singapore authorities push forward with the adoption of Building Information Modelling (BIM) for all regulatory submissions, it became necessary to consolidate existing workflows within the BIM environment to avoid duplication of effort.
 
 However, many of the current executives are used to having the Excel sheet for their work and found it challenging or time-consuming to pickup a complex software like Revit. Hence, the objective of this project is to create a bridging interface to allow easy transfer of data formated within an Excel sheet, into the Revit environment for downstream modeling and processing.
 
