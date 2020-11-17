@@ -21,7 +21,7 @@ layout: default
 
 <div class="intro-title">projects</div>
 
-- [Data Visualisation Web App - NUS 2020](https://pcn-web.web.app/view-explore)
+- [Data Visualisation Web App - NUS 2020](https://pcn-web.web.app/)
 
 - [Exhibit at the Singapore Pavilion for Venice Biennale - NUS 2020](portfolio/venice_table.pdf)
 
