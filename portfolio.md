@@ -44,6 +44,8 @@ layout: default
 
 - [Measuring physical profile and use of park connector network with Deep Learning and Multi-Source Multi-Modal data analytics - NUS, Research Assistant (2019-2020)](./pcn.html)
 
-- [An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D -NUS 2016, Iterative Virtual Prototyping](portfolio/ivp_report.pdf)
+- [Participatory Design Games in Urban Planning: Towards a Distributed and Massively Multi-player Online Collaboration Model - NUS 2016](portfolio/dissertation_2016.pdf)
+
+- [An exploratory pipeline for generating performance based façade system using Houdini with geometry inputs from Rhinoceros 3D - NUS 2016, Iterative Virtual Prototyping](portfolio/ivp_report.pdf)
 
 Updated: November 2020
