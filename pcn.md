@@ -18,7 +18,7 @@ The survey of user activities is accomplished by processing the GoPro video thro
   <source src="https://gxite.github.io/portfolio/video/crowd_action_demo.mp4" type="video/mp4" >
 </video>
 
-Click here for the [Code](https://github.com/gxite/pcn-acam).
+Click here for the [Source code](https://github.com/gxite/pcn-acam).
 
 
 
